@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{5A59E50B-7340-49BC-8398-6F82C86F99D9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BilliardsTask.cs">
+    <Files>
+      <File FileName="BilliardsTask.cs" Line="8" Column="41" />
+      <File FileName="Program.cs" Line="26" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Billiards" expanded="True">
+            <Node name="Billiards" expanded="True">
+              <Node name="BilliardsTask.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Billiards PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
